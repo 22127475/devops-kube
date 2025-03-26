@@ -12,7 +12,7 @@ pipeline {
         // REPO_URL = 'https://github.com/ntquan/nodejs-app-ci-cd.git'
         REPO_URL = 'https://github.com/22127475/devops-kube.git'
         BRANCH_NAME = "${params.BRANCH_NAME}"
-        IMAGE_NAME = 'ntquan87/nodejs-app-ci-cd'
+        IMAGE_NAME = 'ntquan87/22127475-nodejs-app-ci-cd'
     }
 
 
